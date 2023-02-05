@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "goat",
   "Name": "Ultrawide Cutscenes",
   "InternalName": "Dalamud.FullscreenCutscenes",
@@ -18,4 +19,5 @@
   "Punchline": "Remove letterboxing from cutscenes on ultrawide monitors.",
   "DownloadLinkInstall": "https://github.com/nqcshady/testrepo/raw/main/latest.zip",
   "AcceptsFeedback": true
-}
+  }
+]
